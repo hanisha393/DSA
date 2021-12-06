@@ -57,8 +57,6 @@ sha3_return_t sha3_HashBuffer(
 #include <stdint.h>
 #include <string.h>
 
-#include "sha3.h"
-
 #define SHA3_ASSERT( x )
 #define SHA3_TRACE( format, ...)
 #define SHA3_TRACE_BUF(format, buf, l)
